@@ -6,7 +6,7 @@ Meu primeiro projeto:
 de um composto, seus riscos e porquê um capitão não pode prescrever medicação
 e nem sugerir alteração na bula."
 
-
+<img src= 'bomdiafamilia.jpeg' width="300" height="300" >
 
 Hoje em dia, diante da enxurrada de fake news e revisionismos sem base,
 mas do que nunca, as duas metades de "Ciência de Dados" têm que ser valorizadas,
