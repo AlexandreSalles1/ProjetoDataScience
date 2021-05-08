@@ -15,7 +15,7 @@ tias via notebook a complexidade da avaliação de um composto.
 
 [0] - Carregando e analisando a complexidade dos dados; </br>
 [1] - Análise gráfica e estatística;</br>
-[2] - Proposta de machie learning;</br>
+[2] - Proposta de machine learning;</br>
 [3] - Conclusão</br>
 
 <img src= 'Gatinho.jpeg' width="200" height="150" >
